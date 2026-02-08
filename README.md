@@ -20,6 +20,7 @@ recommendations geared toward high-stakes lending decisions.
   - LoanTap_Logistic_Regression.ipynb
 - reports/
   - analysis_report.md
+  - llm_future_predictions.md
 - research_paper/
   - LoanTap_Research_Paper_Vidyasagar_DS.md
 - src/
@@ -45,6 +46,18 @@ Open `notebooks/LoanTap_Logistic_Regression.ipynb` and run cells top-to-bottom.
 - Detect defaulters early without blocking credit-worthy applicants
 - Quantify the precision-recall tradeoff and align it to NPA risk tolerance
 - Provide actionable underwriting levers (pricing, term, DTI thresholds, etc.)
+
+## Future Predictions with AI Agents and LLMs
+To extend this work, we plan to add an agentic layer that monitors portfolio drift,
+summarizes risk drivers, and simulates future scenarios. This will be **LLM-assisted**
+only and will not replace the statistical model.
+
+**Super LLMs considered for future agent workflows:**
+- GPT-4.1 / GPT-5
+- Claude 3.5 Sonnet
+- Gemini 2.0
+- Llama 3.1 (70B)
+- Mistral Large 2
 
 ## Deliverables
 - **Notebook:** End-to-end EDA + modeling + evaluation
