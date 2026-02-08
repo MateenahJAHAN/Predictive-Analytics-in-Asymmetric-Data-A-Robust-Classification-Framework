@@ -127,7 +127,3 @@ only and will not replace the statistical model.
 - **Eligibility AI agent (future)**: A governed agent workflow to decide who is eligible
   for a loan based on verified financial data, policy rules, and explainable reasoning.
 
-## Deliverables
-- **Notebook:** End-to-end EDA + modeling + evaluation
-- **Research Paper:** Structured methodology and insights
-- **Submission Text:** Recommendations + questionnaire answers (CEO-ready)
