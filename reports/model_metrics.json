@@ -1,0 +1,20 @@
+{
+  "roc_auc": 0.5742434904996481,
+  "avg_precision": 0.10810186753197892,
+  "accuracy": 0.7833333333333333,
+  "precision_default": 0.11428571428571428,
+  "recall_default": 0.24489795918367346,
+  "f1_default": 0.15584415584415584,
+  "support_default": 49.0,
+  "default_rate": 0.082,
+  "confusion_matrix": [
+    [
+      458,
+      93
+    ],
+    [
+      37,
+      12
+    ]
+  ]
+}
