@@ -116,6 +116,17 @@ only and will not replace the statistical model.
 - Llama 3.1 (70B)
 - Mistral Large 2
 
+## Research Paper Highlights (Expanded)
+**Highlighted additions in the research paper:**
+- **Full figures embedded** (target distribution, correlation heatmap, ROC, PR curve,
+  confusion matrix, and top coefficients).
+- **GLM and GLM-4 roadmap**: GLM is the current baseline, while GLM-4 (LLM) is planned
+  for narrative insights and agentic decision support.
+- **FHIR-inspired banking data**: Standardized data exchange to enable faster and more
+  reliable eligibility validation and **prior authorization** decisions.
+- **Eligibility AI agent (future)**: A governed agent workflow to decide who is eligible
+  for a loan based on verified financial data, policy rules, and explainable reasoning.
+
 ## Deliverables
 - **Notebook:** End-to-end EDA + modeling + evaluation
 - **Research Paper:** Structured methodology and insights
