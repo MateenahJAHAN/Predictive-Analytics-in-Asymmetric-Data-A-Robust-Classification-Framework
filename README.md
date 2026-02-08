@@ -2,6 +2,17 @@
 
 **Author:** Vidyasagar - Data Scientist
 
+## Profile Reference
+Work completed under the following professional profile:
+- LinkedIn: https://www.linkedin.com/in/vnesanuru/
+- Name: Vidhya Sagar (Vidyasagar) Nesanuru
+- Pronouns: He/Him
+- Headline: AI | ML | Leadership | Freelance | Trainings & Consulting
+- Location: Hyderabad, Telangana, India
+- Experience: New Relic
+- Education: IIM Bangalore
+- Network: 500+ connections
+
 ## Executive Summary
 This project delivers a production-ready, board-level view of loan default risk using
 logistic regression. It includes a structured dataset, end-to-end EDA, feature
