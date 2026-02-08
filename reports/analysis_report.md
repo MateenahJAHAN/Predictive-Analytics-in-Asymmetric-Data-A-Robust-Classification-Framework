@@ -1,6 +1,6 @@
 # LoanTap Loan Default Modeling - Analysis Report
 
-**Author:** Vidyasagar - Data Scientist  
+**Author:** Mateenah Jahan (Under supervision of Vidhya Sagar)  
 **Dataset:** `data/raw/LoanTapData.csv`  
 
 ## 1) Problem Statement

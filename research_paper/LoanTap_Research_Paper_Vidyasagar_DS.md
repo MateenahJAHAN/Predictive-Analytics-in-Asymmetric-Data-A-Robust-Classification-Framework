@@ -1,5 +1,5 @@
 # Loan Default Prediction Using Logistic Regression
-**Author:** Vidyasagar - Data Scientist  
+**Author:** Mateenah Jahan (Under supervision of Vidhya Sagar)  
 **Organization:** LoanTap Analytics Lab  
 **Date:** Feb 8, 2026
 

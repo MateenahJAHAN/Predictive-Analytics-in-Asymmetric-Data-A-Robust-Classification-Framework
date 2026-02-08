@@ -1,13 +1,17 @@
 # Predictive Analytics in Asymmetric Data: Loan Default Prediction
 
-**Author:** Vidhya Sagar (Vidyasagar) Nesanuru - Data Scientist  
-**Pronouns:** He/Him  
-**LinkedIn:** https://www.linkedin.com/in/vnesanuru/  
-**Headline:** AI | ML | Leadership | Freelance | Trainings & Consulting  
-**Location:** Hyderabad, Telangana, India  
-**Experience:** New Relic  
-**Education:** IIM Bangalore  
-**Network:** 500+ connections
+**Author:** Mateenah Jahan  
+**Under Supervision of:** Vidhya Sagar (Vidyasagar) Nesanuru  
+
+## Supervisor Profile Reference
+- LinkedIn: https://www.linkedin.com/in/vnesanuru/
+- Name: Vidhya Sagar (Vidyasagar) Nesanuru
+- Pronouns: He/Him
+- Headline: AI | ML | Leadership | Freelance | Trainings & Consulting
+- Location: Hyderabad, Telangana, India
+- Experience: New Relic
+- Education: IIM Bangalore
+- Network: 500+ connections
 
 ## Executive Summary (CEO-Ready)
 This repository demonstrates a **risk-first loan default framework** with business-grade

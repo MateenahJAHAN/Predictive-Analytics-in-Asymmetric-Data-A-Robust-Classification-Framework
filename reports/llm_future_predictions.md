@@ -1,6 +1,6 @@
 # LLM and AI Agent Roadmap for Future Predictions
 
-**Author:** Vidyasagar - Data Scientist
+**Author:** Mateenah Jahan (Under supervision of Vidhya Sagar)
 
 ## Goal
 Use LLM-powered agents to support future prediction workflows without replacing the

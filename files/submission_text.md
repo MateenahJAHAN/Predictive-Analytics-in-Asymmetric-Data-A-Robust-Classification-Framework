@@ -1,6 +1,6 @@
 # Submission Text - Recommendations & Questionnaire
 
-**Author:** Vidyasagar - Data Scientist  
+**Author:** Mateenah Jahan (Under supervision of Vidhya Sagar)  
 **Notebook PDF Link (Google Drive):** _[Paste public link here after export]_
 
 ## Recommendations (Executive Summary)
