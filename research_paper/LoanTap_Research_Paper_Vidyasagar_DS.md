@@ -1,7 +1,7 @@
 # Loan Default Prediction Using Logistic Regression
 **Author:** Mateenah Jahan (Under supervision of Vidhya Sagar)  
 **Organization:** LoanTap Analytics Lab  
-**Date:** Feb 8, 2026
+**Date:** November 2025
 
 ## Abstract
 This study evaluates a structured credit dataset to predict loan default using a
