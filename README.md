@@ -127,3 +127,13 @@ only and will not replace the statistical model.
 - **Eligibility AI agent (future)**: A governed agent workflow to decide who is eligible
   for a loan based on verified financial data, policy rules, and explainable reasoning.
 
+<!-- portfolio-navigation -->
+## Repository guide
+
+- **Code and notebooks** · [LoanTap_Logistic_Regression.ipynb](notebooks/LoanTap_Logistic_Regression.ipynb), [src](src)
+- **Data** · [LoanTapData.csv](data/raw/LoanTapData.csv)
+- **Figures and images** · [reports](reports)
+- **Documentation and notes** · [submission_text.md](files/submission_text.md), [reports](reports), [LoanTap_Research_Paper_Vidyasagar_DS.md](research_paper/LoanTap_Research_Paper_Vidyasagar_DS.md)
+
+<!-- /portfolio-navigation -->
+
